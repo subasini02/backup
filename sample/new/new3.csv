@@ -1,0 +1,93 @@
+loc_id,loc_name,aggr_order_channel,aggr_full_name,aggr_soundex_score,channel,full_name,magil_soundex_score,maghil_phone,match_score,first_name,last_name,agg_first_name,agg_last_name,sim_sco_full_name,sim_sco_first_name,sim_sco_last_name
+14d293a8-81c5-40b2-a208-be1c03a93fad,A2B Parsippany,GrubHub,harikumar b,H62561,Maghil,harish muraleedharan,H62564365,-9178261986,Low,harish,muraleedharan,harikumar,b,45,53,0
+14d293a8-81c5-40b2-a208-be1c03a93fad,A2B Parsippany,UberEats,prashanth m.,P62535,Maghil,prasenjeer,P62526,-8478302292,Low,prasenjeer,,prashanth,m.,45,53,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,santhosh g.,S532,Maghil,santhakumar,S53256,-6157208244,Low,santhakumar,,santhosh,g.,45,53,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,santhosh g.,S532,Maghil,santhakumar,S53256,-4087636507,Low,santhakumar,,santhosh,g.,45,53,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,santhosh g.,S532,Maghil,santoshsantoshsantos,S532532532,-4843479665,Low,santoshsantoshsantos,,santhosh,g.,45,50,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,GrubHub,venkateswarlu e,V523264,Maghil,venky d,V523,-9016528192,Low,venky,d,venkateswarlu,e,45,44,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Uber Eats,siva kumar t,S12563,Maghil,siva shanmukh vetcha,S1252132,-2673016599,Low,siva,shanmukh vetcha,siva,kumar t,44,100,18
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,GrubHub,vignesh v,V2521,Maghil,vignesh subbarorangapashyam,V2521652125,-7323318385,Low,vignesh,subbarorangapashyam,vignesh,v,44,100,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Grubhub,vignesh v,V2521,Maghil,vignesh subbarorangapashyam,V2521652125,-7323318385,Low,vignesh,subbarorangapashyam,vignesh,v,44,100,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Grubhub,venkat we ez t,V52323,Maghil,venkat subramanian,V5232165,-3015237237,Low,venkat,subramanian,venkat,we ez t,44,100,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,GrubHub,nitin s,N352,Maghil,nitin jainnitin jain,N35253525,-5738214185,Low,nitin,jainnitin jain,nitin,s,44,100,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,padmaja c.,P352,Maghil,padma subramaniam,P352165,-7326888997,Low,padma,subramaniam,padmaja,c.,44,83,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,venkata sai teja r.,V5232326,Maghil,venkatesh kunduru,V5232536,-9086354265,Low,venkatesh,kunduru,venkata,sai teja r.,44,75,11
+14d293a8-81c5-40b2-a208-be1c03a93fad,A2B Parsippany,UberEats,prashanth m.,P62535,Maghil,prasanna ramachandra,P625652536,-7328584795,Low,prasanna,ramachandra,prashanth,m.,44,71,15
+14d293a8-81c5-40b2-a208-be1c03a93fad,A2B Parsippany,UberEats,prashanth m.,P62535,Maghil,prasanna srinivasan ,P625265125,-2017872371,Low,prasanna,srinivasan,prashanth,m.,44,71,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,venkata sai teja r.,V5232326,Maghil,venkateswaran venkatramani,V523265152365,-9085316033,Low,venkateswaran,venkatramani,venkata,sai teja r.,44,70,17
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Grubhub,anand j,A532,Maghil,anandaganesh balakri,A532521426,-4124824484,Low,anandaganesh,balakri,anand,j,44,59,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Grubhub,kamalijeet k,K54232,Maghil,kamalakiran vinjamur,K5426515256,-7036087555,Low,kamalakiran,vinjamur,kamalijeet,k,44,57,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,abhishek s.,A120,Maghil,abhijay,A120,-6103509977,Low,abhijay,,abhishek,s.,44,53,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,pranjal u.,P6524,Maghil,pranessh,P652,-7745786553,Low,pranessh,,pranjal,u.,44,53,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,srikumar r.,S6256,Maghil,srikanthsrikanth,S625326253,-8609781483,Low,srikanthsrikanth,,srikumar,r.,44,50,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,venkat r.,V5236,Maghil,venkateshvenkatexh,V523215232,-7323064606,Low,venkateshvenkatexh,,venkat,r.,44,50,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,arun p.,A651,Maghil,arun varadarajan,A65163625,-4128052352,Low,arun,varadarajan,arun,p.,43,100,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,GrubHub,chandra j,C5362,Maghil,chandra sekhar reddy mukkala,C536263524,-8482563635,Low,chandra,sekhar reddy mukkala,chandra,j,43,100,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Uber Eats,amrita r,A5636,Maghil,amrit ponnambalamnid,A563151453,-2679074977,Low,amrit,ponnambalamnid,amrita,r,43,91,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,pradhap r.,P6316,Maghil,pradeep dasarathan,P63132635,-4082428739,Low,pradeep,dasarathan,pradhap,r.,43,71,17
+14d293a8-81c5-40b2-a208-be1c03a93fad,A2B Parsippany,UberEats,karthika v.,K6321,Maghil,karthee jayaraman,K63265,-6302471802,Low,karthee,jayaraman,karthika,v.,43,67,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Grubhub,anand j,A532,Maghil,anantha sundaram,A5325365,-7032683486,Low,anantha,sundaram,anand,j,43,67,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,harsid v.,H6231,Maghil,harshitha gannamani,H62325,-7323187867,Low,harshitha,gannamani,harsid,v.,43,67,0
+14d293a8-81c5-40b2-a208-be1c03a93fad,A2B Parsippany,UberEats,prashanth m.,P62535,Maghil,prasenjeet ghosh,P625232,-8563712215,Low,prasenjeet,ghosh,prashanth,m.,43,63,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,subha s t.,S123,Maghil,subhojit roye,S1236,-4124186913,Low,subhojit,roye,subha,s t.,43,62,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,anuj m.,A525,Maghil,anujkumar patel ,A5256134,-9083586803,Low,anujkumar,patel,anuj,m.,43,62,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Uber Eats,padmaja c,P352,Maghil,padmini ashok kumar,P35256,-2679914083,Low,padmini,ashok kumar,padmaja,c,43,57,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,sandhya p.,S531,Maghil,sandeep singh,S531252,-7324913110,Low,sandeep,singh,sandhya,p.,43,57,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,sandhya p.,S531,Maghil,sandeep kumar,S531256,-9179411090,Low,sandeep,kumar,sandhya,p.,43,57,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,sandhya p.,S531,Maghil,sandeep balar,S53146,-9527693634,Low,sandeep,balar,sandhya,p.,43,57,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,sandhya p.,S531,Maghil,sandeep gond ,S531253,-5512639197,Low,sandeep,gond,sandhya,p.,43,57,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,sandhya p.,S531,Maghil,sandeep singh,S531252,-7327818749,Low,sandeep,singh,sandhya,p.,43,57,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,sandhya p.,S531,Maghil,sandeep furia,S5316,-7323064614,Low,sandeep,furia,sandhya,p.,43,57,0
+14d293a8-81c5-40b2-a208-be1c03a93fad,A2B Parsippany,GrubHub,harikumar b,H62561,Maghil,harish mahalingam,H6254525,-2015724675,Low,harish,mahalingam,harikumar,b,43,53,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,GrubHub,venkateswarlu e,V523264,Maghil,venky dw,V523,-9016528192,Low,venky,dw,venkateswarlu,e,43,44,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,anand m.,A535,Maghil,anandamuralianandamu,A53564535,-6096479298,Low,anandamuralianandamu,,anand,m.,43,40,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,subha s t.,S123,Maghil,subh chowdhury,S1236,-7189134315,Low,subh,chowdhury,subha,s t.,42,89,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,GrubHub,venkateswarlu e,V523264,Maghil,venkata gadamsetty,V52323523,-7324294826,Low,venkata,gadamsetty,venkateswarlu,e,42,70,18
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,harsha m.,H625,Maghil,harsimran singh,H62565252,-2016161372,Low,harsimran,singh,harsha,m.,42,67,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,GrubHub,pratik r,P6326,Maghil,pratyush trivedi,P6323613,-6096137991,Low,pratyush,trivedi,pratik,r,42,57,25
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,GrubHub,pratik g,P632,Maghil,pratyush trivedi,P6323613,-6096137991,Low,pratyush,trivedi,pratik,g,42,57,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,sandhya p.,S531,Maghil,sandeep ramesh,S531652,-4692312609,Low,sandeep,ramesh,sandhya,p.,42,57,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,sandhya p.,S531,Maghil,sandeep gondil,S5312534,-5512639197,Low,sandeep,gondil,sandhya,p.,42,57,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,venkata sai teja r.,V5232326,Maghil,venkat krishnan,V5232625,-6099338751,Low,venkat,krishnan,venkata,sai teja r.,41,92,21
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,venkata sai teja r.,V5232326,Maghil,venkat krishnan,V5232625,-6106392146,Low,venkat,krishnan,venkata,sai teja r.,41,92,21
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,srinithi v.,S6531,Maghil,srinath santhanagopalan,S65325352145,-9044227079,Low,srinath,santhanagopalan,srinithi,v.,41,80,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Grubhub,venkat we ez t,V52323,Maghil,venkatesh srinivasan,V523265125,-5517770574,Low,venkatesh,srinivasan,venkat,we ez t,41,80,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,krishi m.,K625,Maghil,krishna venkatachala,K625152324,-6099333337,Low,krishna,venkatachala,krishi,m.,41,77,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,krishi m.,K625,Maghil,krishna thiyagarajan,K62532625,-7328237458,Low,krishna,thiyagarajan,krishi,m.,41,77,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Grubhub,venkat we ez t,V52323,Maghil,venkatesan kannamari,V52325256,-6102356547,Low,venkatesan,kannamari,venkat,we ez t,41,75,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,satyajeet b.,S3231,Maghil,satya dasikasatya,S323,-2409187633,Low,satya,dasikasatya,satyajeet,b.,41,71,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Grubhub,venkat we ez t,V52323,Maghil,venkatraman nagaraja,V52365262,-4806356017,Low,venkatraman,nagaraja,venkat,we ez t,41,71,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,GrubHub,raviteja v,R1321,Maghil,ravi dashnamoorthy ,R132563,-7744080361,Low,ravi,dashnamoorthy,raviteja,v,41,67,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Grubhub,venkat we ez t,V52323,Maghil,venkataramana dingar,V523653526,-2675667051,Low,venkataramana,dingar,venkat,we ez t,41,63,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,padmaja c.,P352,Maghil,padmini ashok kumar,P35256,-2679914083,Low,padmini,ashok kumar,padmaja,c.,41,57,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,krishi m.,K625,Maghil,krishnakumar venkata,K6252561523,-6099333337,Low,krishnakumar,venkata,krishi,m.,41,56,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,srinivasala y.,S65124,Maghil,srinu velichety,S651423,-7575810710,Low,srinu,velichety,srinivasala,y.,41,50,18
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,GrubHub,harish b,H621,Maghil,harika penematcha,H621532,-7326193163,Low,harika,penematcha,harish,b,40,67,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,raviteja v.,R1321,Maghil,ravi dashnamoorthy ,R132563,-7744080361,Low,ravi,dashnamoorthy,raviteja,v.,40,67,0
+14d293a8-81c5-40b2-a208-be1c03a93fad,A2B Parsippany,GrubHub,harikumar b,H62561,Maghil,hari ganapathy,H62513,-6103939886,Low,hari,ganapathy,harikumar,b,40,62,0
+14d293a8-81c5-40b2-a208-be1c03a93fad,A2B Parsippany,UberEats,prashanth m.,P62535,Maghil,prasoon singh,P625252,-6097215724,Low,prasoon,singh,prashanth,m.,40,62,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Grubhub,arun d,A653,Maghil,arundhati vattikola,A6531324,-7328874721,Low,arundhati,vattikola,arun,d,40,62,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,GrubHub,arun d,A653,Maghil,arundhati vattikola,A6531324,-7328874721,Low,arundhati,vattikola,arun,d,40,62,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Grubhub,kamalijeet k,K54232,Maghil,kamala sundararaju,K5425362,-2487676900,Low,kamala,sundararaju,kamalijeet,k,40,62,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,srikumar r.,S6256,Maghil,srikanth bogadapati,S625312313,-9254007049,Low,srikanth,bogadapati,srikumar,r.,40,62,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,srikumar r.,S6256,Maghil,srikanth jallipalli,S62532414,-2674921385,Low,srikanth,jallipalli,srikumar,r.,40,62,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,sandhya p.,S531,Maghil,sandeep gidwani,S531235,-2017592971,Low,sandeep,gidwani,sandhya,p.,40,57,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,sandhya p.,S531,Maghil,sandeep bhargavasand,S531621253,-9082940512,Low,sandeep,bhargavasand,sandhya,p.,40,57,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,sathyakumar p.,S32561,Maghil,sathish soundararajan,S3253625,-9082020149,Low,sathish,soundararajan,sathyakumar,p.,40,44,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,venkata sravya k.,V5232612,Maghil,venkatesh munukutla,V52325234,-2163764087,Low,venkatesh,munukutla,venkata,sravya k.,39,75,11
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,srikumar r.,S6256,Maghil,srikant raghavachari,S625362126,-2156019065,Low,srikant,raghavachari,srikumar,r.,39,67,14
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,srinidhi r.,S6536,Maghil,srinath muralinathan,S653564535,-9806435700,Low,srinath,muralinathan,srinidhi,r.,39,67,14
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,srikumar r.,S6256,Maghil,srikanth dommalapati,S62535413,-7328298112,Low,srikanth,dommalapati,srikumar,r.,39,62,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,srinivas g.,S6512,Maghil,srinu velichety,S651423,-7575810710,Low,srinu,velichety,srinivas,g.,38,62,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,srinivas r.,S65126,Maghil,srinu velichety,S651423,-7575810710,Low,srinu,velichety,srinivas,r.,38,62,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,sandhya p.,S531,Maghil,sandeep chakravarthy thatiparthi,S53126163163,-2722078896,Low,sandeep,chakravarthy thatiparthi,sandhya,p.,38,57,8
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,sandhya p.,S531,Maghil,sandeep kandekar,S53125326,-3314573574,Low,sandeep,kandekar,sandhya,p.,38,57,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,andrey s.,A5362,Maghil,andrijana bilbija,A536251412,-6155065828,Low,andrijana,bilbija,andrey,s.,38,53,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,arun p.,A651,Maghil,arun balasubramanian,A65142165,-7184046932,Low,arun,balasubramanian,arun,p.,37,100,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,venkata sai teja r.,V5232326,Maghil,venkatesh munukutla,V52325234,-2163764087,Low,venkatesh,munukutla,venkata,sai teja r.,37,75,10
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,sandhya p.,S531,Maghil,sandeep bikumalla,S531254,-8142189060,Low,sandeep,bikumalla,sandhya,p.,37,57,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,Grubhub,venkat we ez t,V52323,Maghil,venkatakrishnan hariharan,V523262565,-6073721354,Low,venkatakrishnan,hariharan,venkat,we ez t,36,57,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,srinivasan m.,S65125,Maghil,srinu velichety,S651423,-7575810710,Low,srinu,velichety,srinivasan,m.,36,53,0
+22d293a8-81c5-40b2-a208-be1c03a93fad,A2B Princeton,UberEats,arun p.,A651,Maghil,arunvibooshanan,A65125,-4452061923,Low,arunvibooshanan,,arun,p.,36,42,0
+7e2a8a81-1462-11eb-89a4-42010a010003,A2B SPF,UberEats,venkat r.,V5236,Maghil,venkiteswaran vaidyanathan,V52326513535,-2014232192,Low,venkiteswaran,vaidyanathan,venkat,r.,34,53,0
+14d293a8-81c5-40b2-a208-be1c03a93fad,A2B Parsippany,UberEats,prashanth m.,P62535,Maghil,prasenjeet sengupta,P6252325213,-8478302292,Low,prasenjeet,sengupta,prashanth,m.,32,63,0
